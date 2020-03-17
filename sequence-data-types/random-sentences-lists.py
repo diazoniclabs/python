@@ -9,7 +9,7 @@ adv = []
 adj = []
 i = 0
 count = int(input("Enter the number"))
-print("Enter "+str(count)+"Nouns")
+print("Enter "+str(count)+" Nouns")
 for i in range(count):
     a = input("Enter the nouns")
     nouns.append(a)
