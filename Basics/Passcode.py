@@ -1,5 +1,8 @@
-import time     # importing time library
-lock = 2580     # Write password
+''' This is a program for mimicking the behavior of simple mobile passcode. The program include usage of
+time library, variable, a function, looping construct, string concatenation, break statement, if conditional statement'''
+
+import time     # importing time library for timer
+lock = 2580     # Store password
 i = 5
 
 def stimer(j):
